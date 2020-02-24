@@ -23,6 +23,8 @@ jobs:
     
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2.4.0
+      with:
+        keep_files: true
       env:
         ACTIONS_DEPLOY_KEY: ${{ secrets.APP_DEPLOY }}
         PUBLISH_BRANCH: master
