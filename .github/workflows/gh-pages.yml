@@ -27,3 +27,4 @@ jobs:
           deploy_key: ${{ secrets.APP_DEPLOY }}
           publish_dir: ./public
           publish_branch: master
+          allow_empty_commit: true
