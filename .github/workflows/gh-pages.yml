@@ -1,0 +1,27 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - source
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.2.0
+      with:
+        hugo-version: '0.58.3'
+        
+    - name: Build
+      run: hugo --gc --minify --cleanDestinationDir
+    
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v2.4.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.APP_DEPLOY }}
+        PUBLISH_BRANCH: master
+        PUBLISH_DIR: ./public
