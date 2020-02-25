@@ -1,8 +1,8 @@
 baseURL = "https://ewilazarus.github.io"
 title = "Ewilogs"
 theme = "hugo-coder"
-languageCode = "en-us"
-defaultcontentlanguage = "en-us"
+languageCode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 20
 canonifyurls = true
