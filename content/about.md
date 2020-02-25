@@ -4,7 +4,7 @@ At the age of 20, I discovered my passion about computer programming when I was 
 
 I ended up specializing in back-end development, although I also like to do some tweaking in the devops area and will do front end development if necessary. I'm a big Microsoft fan and I'm really excited about the .NET (Core) ecosystem as a whole. Recently I started learning F# to complement my C# skills and never looked back.
 
-In my professional life I had the opportunity to work alongside very talented people and, from them, learn a lot. I worked my whole life for the technology market, but right now, for the first time in my career, I'm into the financial market, working on some awesome projects for enabling automation of bank related stuff and the "fintechyalization" of the biggest investment bank in Brazil. 
+In my professional life I had the opportunity to work alongside very talented people and, from them, learned a lot. I worked my whole life for the technology market, but right now, for the first time in my career, I'm into the financial market, working on some awesome projects for enabling automation of bank related stuff and the "fintechyalization" of the biggest investment bank in Brazil. 
 
 I am really keen to stuff like high availability, distributed systems and will always attend to conferences and meetings whenever I can.
 
