@@ -25,3 +25,4 @@ Finally, I am writing these lines so, maybe, someone in a similar condition migh
 I will quit smoking tonight, and I'll keep you updated over the next weeks with my progress and thoughts.
 
 Let's be strong, let's own our lives, let's say no to tobacco.
+
