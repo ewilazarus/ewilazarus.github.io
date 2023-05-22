@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ewilazarus.github.io/sitemap.xml
