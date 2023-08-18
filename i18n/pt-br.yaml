@@ -1,0 +1,5 @@
+shortcode:
+  recent_articles: "Posts Recentes"
+
+footer:
+  powered_by: "Criado com {{ .Hugo }} &amp; {{ .Congo }}"

@@ -16,24 +16,24 @@ enableCodeCopy = true
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
-  # logo = "img/logo.jpg"
+  logo = "img/logo.jpg"
   showTitle = true
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
+  showThemeAttribution = false
   showAppearanceSwitcher = true
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "custom" # valid options: page, profile, custom
   showRecent = true
   recentLimit = 5
 
 [article]
   showDate = true
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false

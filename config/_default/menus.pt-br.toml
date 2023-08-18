@@ -16,7 +16,7 @@
   weight = 10
 
 [[main]]
-  name = "About"
+  name = "Sobre"
   pageRef = "about"
   weight = 11
 
@@ -39,11 +39,10 @@
     target = "_blank"
 
 [[main]]
-  identifier = "search"
+  identifier = "Busca"
   weight = 99
   [main.params]
     action = "search"
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

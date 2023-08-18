@@ -1,8 +1,8 @@
-languageCode = "en"
-languageName = "English"
-displayName = "🇺🇸"
-isoCode = "en"
-weight = 1
+languageCode = "pt-br"
+languageName = "Português"
+displayName = "🇧🇷"
+isoCode = "pt-br"
+weight = 2
 rtl = false
 
 title = "ewilogs"
