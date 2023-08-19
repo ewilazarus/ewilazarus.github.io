@@ -1,0 +1,7 @@
+{{ partial "fonts" . }}
+<a
+  class="decoration-primary-500 font-logo"
+  rel="me"
+  href="{{ "" | relLangURL }}"
+  >{{ .Site.Title | markdownify | emojify }}
+</a>

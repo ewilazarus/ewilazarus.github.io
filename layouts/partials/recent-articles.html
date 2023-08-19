@@ -1,0 +1,5 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+    {{ partial "article-link.html" . }}
+  {{ end }}
+{{ end }}
