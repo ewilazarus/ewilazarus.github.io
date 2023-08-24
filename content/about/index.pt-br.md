@@ -2,6 +2,7 @@
 type: "about"
 date: "2023-08-18"
 title: "Sobre"
+slug: "sobre"
 ---
 ![Avatar](/img/author.png)
 

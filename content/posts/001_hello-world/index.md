@@ -3,6 +3,7 @@ title: "Hello, world!"
 date: "2023-08-18"
 draft: false
 tags: ["blogging", "discipline", "community", "writing"]
+slug: "hello-world"
 ---
 
 Hey there, dear readers!
