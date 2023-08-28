@@ -1,7 +1,7 @@
 ---
 title: "Creating a CLI Utility Belt"
 date: "2023-08-24"
-draft: false
+draft: true
 tags: ["typescript", "javascript", "node", "npm"]
 slug: "cli-utility-belt"
 ---
